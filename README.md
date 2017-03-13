@@ -1,2 +1,2 @@
 # ImageDescriptors
-Repo for exercises made during  classes at UNICAMP
+Repo for exercises made during MC851 - Project on Image Descriptors classes at UNICAMP
